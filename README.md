@@ -2,11 +2,13 @@
 
 SolidJS Client Side Render ([repo](https://github.com/solidjs/solid-hackernews)) ([demo](https://hackernews-csr.ryansolid.workers.dev/))
 
-SolidJS Server Side Render ([demo](https://hackernews.ryansolid.workers.dev/))
+SolidJS Vite Server Side Render ([repo](https://github.com/solidjs/solid-hackernews/tree/vite-ssr)) ([demo](https://hackernews.ryansolid.workers.dev/))
 
 Solid Webcomponents (old) ([repo](https://github.com/ryansolid/solid-hackernews-app)) ([demo](https://ryansolid.github.io/solid-hackernews-app/))
 
 Astro + SolidJS ([repo](https://github.com/ryansolid/astro-solid-hackernews)) ([demo](https://astro-solid-hn.netlify.app/))
+
+Vue 2 ([repo](https://github.com/vuejs/vue-hackernews-2.0)) ([demo](https://vue-hn.herokuapp.com/top))
 
 Remix ([repo]()) ([demo](https://github.com/ryansolid/remix-hackernews))
 
