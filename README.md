@@ -32,7 +32,7 @@ Qwik ([repo](https://github.com/ryansolid/qwik-hackernews)) ([demo](https://qwik
 
 ## Rust
 
-Prism + Actix Web ([repo](https://github.com/ryansolid/hackernews-prism))
+Prism + Actix Web ([repo](https://github.com/kaleidawave/hackernews-prism))
 
 ## Additional info
 
