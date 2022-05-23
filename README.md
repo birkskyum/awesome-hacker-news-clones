@@ -1,6 +1,6 @@
 # Awesome Hacker News Clones
 
-| Name | Repo | Demo  | Host | Slow page (ID 30186326) | 
+| Name | Repo | Demo  | Host | Slow page | 
 | :---        |    :----   |    :----   |          :--- | :--- |
 | SolidJS Client Side Render | [repo](https://github.com/solidjs/solid-hackernews) | [demo](https://hackernews-csr.ryansolid.workers.dev/) | Cloudflare Worker | [Link](https://hackernews-csr.ryansolid.workers.dev/stories/30186326) |
 | SolidJS Vite Server Side Render | [repo](https://github.com/solidjs/solid-hackernews/tree/vite-ssr) | [demo](https://hackernews.ryansolid.workers.dev/) | Cloudflare Worker | [Link](https://hackernews.ryansolid.workers.dev/stories/30186326) |
@@ -23,3 +23,7 @@
 | :---        |    :----   |    :----   |  :--- | :--- |
 | Sycamore | [repo](https://github.com/sycamore-rs/hackernews-sycamore) | [demo](https://sycamore-rs.github.io/hackernews-sycamore/ ) | Github Pages | [Link](https://sycamore-rs.github.io/hackernews-sycamore/item/30186326) |
 | Prism + Actix Web | [repo](https://github.com/kaleidawave/hackernews-prism) | | | |
+
+## Additional info
+
+Slow page refers to the article of id 30186326, because it has 1400 comments making it a good candidate for testing.
