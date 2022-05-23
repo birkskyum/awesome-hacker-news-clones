@@ -26,4 +26,4 @@
 
 ## Additional info
 
-Slow page refers to the article of id 30186326, because it has 1400 comments making it a good candidate for testing.
+Slow page refers to the article of id 30186326. This article has 1400 comments, making it a good candidate for testing.
