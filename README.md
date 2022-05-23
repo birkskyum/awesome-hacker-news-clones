@@ -19,3 +19,7 @@ Next ([repo](https://github.com/ryansolid/next-hackernews)) ([demo](https://next
 Sycamore ([repo](https://github.com/sycamore-rs/hackernews-sycamore)) ([demo](https://sycamore-rs.github.io/hackernews-sycamore/item/30186326 ))
 
 SvelteKit ([repo](https://github.com/sveltejs/sites/tree/master/sites/hn.svelte.dev))
+
+## Additional info
+
+Hard to load article ID: 30186326
