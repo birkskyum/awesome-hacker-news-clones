@@ -22,7 +22,7 @@ Elm ([repo](https://github.com/dillonkearns/elm-pages/tree/serverless-latest/exa
 
 Next ([repo](https://github.com/ryansolid/next-hackernews)) (Vercel [demo](https://next-hackernews-olive.vercel.app/))
 
-SvelteKit - official ([repo](https://github.com/sveltejs/sites/tree/master/sites/hn.svelte.dev)) ([demo](hn.svelte.dev))
+SvelteKit - official ([repo](https://github.com/sveltejs/sites/tree/master/sites/hn.svelte.dev)) ([demo](https://hn.svelte.dev))
 
 SvelteKit ([repo](https://github.com/ryansolid/svelte-hackernews)) (Cloudflare Pages [demo](https://svelte-hackernews.pages.dev/))
 
