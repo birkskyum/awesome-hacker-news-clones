@@ -10,6 +10,10 @@ Astro + SolidJS ([repo](https://github.com/ryansolid/astro-solid-hackernews)) ([
 
 Vue 2 ([repo](https://github.com/vuejs/vue-hackernews-2.0)) ([demo](https://vue-hn.herokuapp.com/top))
 
+Vue 3 (updated of Vue 2) ([repo](https://github.com/raukaute/vue-hackernews-3.0))
+
+Vue 3 + Vite ([repo](https://github.com/visualfanatic/vue-hackernews-3.0)) ([demo](https://vue-hn.netlify.app/))
+
 Remix ([repo]()) ([demo](https://github.com/ryansolid/remix-hackernews))
 
 Marko ([repo](https://github.com/ryansolid/marko-hackernews)) ([demo](https://marko-hackernews.ryansolid.workers.dev/))
