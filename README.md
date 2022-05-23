@@ -22,8 +22,6 @@ Elm ([repo](https://github.com/dillonkearns/elm-pages/tree/serverless-latest/exa
 
 Next ([repo](https://github.com/ryansolid/next-hackernews)) ([demo](https://next-hackernews-olive.vercel.app/))
 
-Sycamore ([repo](https://github.com/sycamore-rs/hackernews-sycamore)) ([demo](https://sycamore-rs.github.io/hackernews-sycamore/item/30186326 ))
-
 SvelteKit - official ([repo](https://github.com/sveltejs/sites/tree/master/sites/hn.svelte.dev))
 
 SvelteKit ([repo](https://github.com/ryansolid/svelte-hackernews)) ([demo](https://svelte-hackernews.pages.dev/))
@@ -31,6 +29,8 @@ SvelteKit ([repo](https://github.com/ryansolid/svelte-hackernews)) ([demo](https
 Qwik ([repo](https://github.com/ryansolid/qwik-hackernews)) ([demo](https://qwik-hackernews.ryansolid.workers.dev/))
 
 ## Rust
+
+Sycamore ([repo](https://github.com/sycamore-rs/hackernews-sycamore)) ([demo](https://sycamore-rs.github.io/hackernews-sycamore/item/30186326 ))
 
 Prism + Actix Web ([repo](https://github.com/kaleidawave/hackernews-prism))
 
