@@ -4,7 +4,7 @@ SolidJS Client Side Render ([repo](https://github.com/solidjs/solid-hackernews))
 
 SolidJS Server Side Render ([demo](https://hackernews.ryansolid.workers.dev/))
 
-Solid additional implementation ([repo](https://github.com/ryansolid/solid-hackernews-app)) ([demo](https://ryansolid.github.io/solid-hackernews-app/))
+Solid Webcomponents (old) ([repo](https://github.com/ryansolid/solid-hackernews-app)) ([demo](https://ryansolid.github.io/solid-hackernews-app/))
 
 Astro + SolidJS ([repo](https://github.com/ryansolid/astro-solid-hackernews)) ([demo](https://astro-solid-hn.netlify.app/))
 
