@@ -20,7 +20,15 @@ Next ([repo](https://github.com/ryansolid/next-hackernews)) ([demo](https://next
 
 Sycamore ([repo](https://github.com/sycamore-rs/hackernews-sycamore)) ([demo](https://sycamore-rs.github.io/hackernews-sycamore/item/30186326 ))
 
-SvelteKit ([repo](https://github.com/sveltejs/sites/tree/master/sites/hn.svelte.dev))
+SvelteKit - official ([repo](https://github.com/sveltejs/sites/tree/master/sites/hn.svelte.dev))
+
+SvelteKit ([repo](https://github.com/ryansolid/svelte-hackernews)) ([demo](https://svelte-hackernews.pages.dev/))
+
+Qwik ([repo](https://github.com/ryansolid/qwik-hackernews)) ([demo](https://qwik-hackernews.ryansolid.workers.dev/))
+
+## Rust
+
+Prism + Actix Web ([repo](https://github.com/ryansolid/hackernews-prism))
 
 ## Additional info
 
