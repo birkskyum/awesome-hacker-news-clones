@@ -23,6 +23,7 @@
 | :---        |    :----   |    :----   |  :--- | :--- |
 | Sycamore | [repo](https://github.com/sycamore-rs/hackernews-sycamore) | [demo](https://sycamore-rs.github.io/hackernews-sycamore/ ) | Github Pages | [Link](https://sycamore-rs.github.io/hackernews-sycamore/item/30186326) |
 | Prism + Actix Web | [repo](https://github.com/kaleidawave/hackernews-prism) | | | |
+| Dioxus | [repo](https://github.com/jkelleyrtp/hn-clone) | | | |
 
 ## Additional info
 
