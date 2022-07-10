@@ -17,6 +17,8 @@
 | SvelteKit | [repo](https://github.com/ryansolid/svelte-hackernews) | [demo](https://svelte-hackernews.pages.dev/) | Cloudflare Pages |[Link](https://svelte-hackernews.pages.dev/stories/30186326) |
 | Qwik | [repo](https://github.com/ryansolid/qwik-hackernews) | [demo](https://qwik-hackernews.ryansolid.workers.dev/) | Cloudflare Worker |[Link](https://qwik-hackernews.ryansolid.workers.dev/stories/30186326) |
 | Fresh | [repo](https://github.com/ryansolid/fresh-hackernews) | [demo](https://ryansolid-fresh-hackernews.deno.dev/) | Deno Deploy |[Link](https://ryansolid-fresh-hackernews.deno.dev/stories/30186326) |
+| Hydrogen | [repo](https://github.com/ryansolid/hydrogen-hackernews) | [demo](https://stackblitz.com/edit/github-gaqlxp) | Stackblitz |  |
+
 
 ### Rust
 
