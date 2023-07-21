@@ -1,4 +1,4 @@
-# Awesome Hacker News Clones
+# Hacker News Framework Bench
 
 | Name | Repo | Demo  | Host | Slow page* | 
 | :---        |    :----   |    :----   |          :--- | :--- |
