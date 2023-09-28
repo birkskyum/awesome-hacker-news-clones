@@ -1,4 +1,4 @@
-# Hacker News Framework Bench
+# Hacker News Framework Benchmark
 
 | Name | Repo | Demo  | Host | Slow page* | 
 | :---        |    :----   |    :----   |          :--- | :--- |
